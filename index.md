@@ -12,6 +12,7 @@ Proyek ini bertujuan untuk menganalisis dataset lalu lintas jaringan dan membang
 ---
 
 ## 👥 Anggota Kelompok Data Mining - FTI UNPAM
+  Kelas 04TPLP027
 
 - Aditya Eko Nugroho  
 - Farid Mardan Aziz  
